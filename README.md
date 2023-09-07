@@ -1,4 +1,4 @@
-# Proof of Concept | [Art Vault](https://github.com/kauefraga/av) (:brazil:)
+# Prova de Conceito | [Art Vault](https://github.com/kauefraga/av) (:brazil:)
 
 ![GitHub top language](https://img.shields.io/github/languages/top/kauefraga/poc-av)
 ![GitHub's license](https://img.shields.io/github/license/kauefraga/poc-av)
@@ -6,6 +6,9 @@
 > 🦜 Testando alguns estilos para um possível site para o 'Art Vault'.
 
 ### 🖼 Imagens
+
+![Uma imagem da "parte" de cima do site](public/header-06-09-2023.png)
+![Uma imagem da "parte" de baixo do site](public/footer-06-09-2023.png)
 
 ## ⬇ Como instalar e rodar
 
@@ -32,6 +35,8 @@ Lista de conteúdos e referências que consumi para criar este projeto:
 
 - HTML/CSS - A dupla dinâmica
 - [Serve](https://www.npmjs.com/package/serve)
+- [Artigo sobre 60-30-10](https://www.alura.com.br/artigos/regra-60-30-10-ui-design)
+- [Feministech](https://feministech.com.br) - Me inspirei diretamente no design <3.
 
 ## 📝 Licença
 
