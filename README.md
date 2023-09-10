@@ -29,6 +29,13 @@ npm i -g serve # use o gerenciador de pacote que preferir
 serve
 ```
 
+## ⚡ Improvements
+
+- Accessibility
+- Responsivity (currently, it only works in desktop)
+- Create size variables, organize the css better
+- Put more information about the project (more description) 
+
 ## 🧻 Recursos e inspirações
 
 Lista de conteúdos e referências que consumi para criar este projeto:
